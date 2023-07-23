@@ -1,0 +1,67 @@
+<svg id="cs6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84.971" height="84.972" viewBox="0 0 84.971 84.972">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0e88e6"/>
+      <stop offset="1" stop-color="#abadf6"/>
+    </linearGradient>
+    <filter id="Path_3627" x="22.245" y="22.37" width="40.405" height="40.405" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3628" x="50.442" y="43.651" width="13.271" height="13.271" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3629" x="43.526" y="50.567" width="13.271" height="13.271" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3630" x="46.895" y="47.198" width="14.69" height="14.69" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Ellipse_17" data-name="Ellipse 17" cx="42.486" cy="42.486" r="42.486" fill="url(#linear-gradient)"/>
+  <g id="startup" transform="translate(25.245 24.369)">
+    <g id="Group_778" data-name="Group 778">
+      <g id="Group_777" data-name="Group 777">
+        <g transform="matrix(1, 0, 0, 1, -25.24, -24.37)" filter="url(#Path_3627)">
+          <path id="Path_3627-2" data-name="Path 3627" d="M34.4,16.138C32.454,11,27.311,8.335,21.636,9.4,16.138,3.9,8.512.177.887,0A.838.838,0,0,0,0,.887C.177,8.512,3.9,16.138,9.222,21.636c-.887,5.5,1.6,10.818,6.739,12.769a12.353,12.353,0,0,1-.355-7.626,19.383,19.383,0,0,0,2.66,1.419.835.835,0,0,0,1.064-.177L28.2,19.153a.792.792,0,0,0,0-.887,11.307,11.307,0,0,0-1.419-2.483A12.353,12.353,0,0,1,34.4,16.138ZM14.9,14.9A3.511,3.511,0,0,1,9.931,9.931,3.511,3.511,0,0,1,14.9,14.9Z" transform="translate(25.24 24.37)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_780" data-name="Group 780" transform="translate(28.198 21.281)">
+      <g id="Group_779" data-name="Group 779">
+        <g transform="matrix(1, 0, 0, 1, -53.44, -45.65)" filter="url(#Path_3628)">
+          <path id="Path_3628-2" data-name="Path 3628" d="M413.779,311.456l-3.724-3.724a1.756,1.756,0,1,0-2.483,2.483l3.724,3.724a1.756,1.756,0,0,0,2.483-2.483Z" transform="translate(-353.6 -261.55)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_782" data-name="Group 782" transform="translate(21.281 28.198)">
+      <g id="Group_781" data-name="Group 781">
+        <g transform="matrix(1, 0, 0, 1, -46.53, -52.57)" filter="url(#Path_3629)">
+          <path id="Path_3629-2" data-name="Path 3629" d="M313.939,411.3l-3.724-3.724a1.756,1.756,0,1,0-2.483,2.483l3.724,3.724a1.756,1.756,0,0,0,2.483-2.483Z" transform="translate(-260.67 -354.47)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_784" data-name="Group 784" transform="translate(24.651 24.828)">
+      <g id="Group_783" data-name="Group 783">
+        <g transform="matrix(1, 0, 0, 1, -49.9, -49.2)" filter="url(#Path_3630)">
+          <path id="Path_3630-2" data-name="Path 3630" d="M364,364.075l-5.143-5.143a1.756,1.756,0,1,0-2.483,2.483l5.143,5.143A1.756,1.756,0,0,0,364,364.075Z" transform="translate(-305.94 -309.2)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

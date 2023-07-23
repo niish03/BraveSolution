@@ -1,0 +1,51 @@
+<svg id="hb2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84.971" height="84.972" viewBox="0 0 84.971 84.972">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#85c26a"/>
+      <stop offset="1" stop-color="#ccf5ba"/>
+    </linearGradient>
+    <filter id="XMLID_134_" x="34.491" y="20.218" width="30.601" height="46.661" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="XMLID_132_" x="31.825" y="27.615" width="21.484" height="16.026" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="XMLID_131_" x="17.785" y="28.669" width="18.719" height="38.209" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="XMLID_130_" x="22.332" y="19.91" width="13.991" height="13.991" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Ellipse_17" data-name="Ellipse 17" cx="42.486" cy="42.486" r="42.486" fill="url(#linear-gradient)"/>
+  <g id="XMLID_129_" transform="translate(20.785 19.915)">
+    <g transform="matrix(1, 0, 0, 1, -20.79, -19.91)" filter="url(#XMLID_134_)">
+      <path id="XMLID_134_2" data-name="XMLID_134_" d="M221.2,5.656H199.242a1.322,1.322,0,0,0-1.321,1.322V16.3l.955-1.117a3.041,3.041,0,0,1,1.687-1V8.3h19.315V25.563H200.564v-2.89l-.6.7a3.069,3.069,0,0,1-2.048,1.058v2.458a1.321,1.321,0,0,0,1.321,1.321h7.131l-3.623,16.449a1.367,1.367,0,0,0,2.67.589l3.752-17.038h2.181l3.752,17.038a1.367,1.367,0,1,0,2.67-.589l-3.623-16.449H221.2a1.322,1.322,0,0,0,1.321-1.321V6.978A1.322,1.322,0,0,0,221.2,5.656Z" transform="translate(-160.43 16.56)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -20.79, -19.91)" filter="url(#XMLID_132_)">
+      <path id="XMLID_132_2" data-name="XMLID_132_" d="M181.788,93.607a.51.51,0,0,0-.662-.287l-7.785,2.748a1.709,1.709,0,0,0-2.341.239l-2.47,2.885-2.19-1.878c.014.155.047.306.047.465v4.076L167.6,102.9a1.71,1.71,0,0,0,2.41-.186l2.941-3.439,2.372-1.388,6.242-3.652A.509.509,0,0,0,181.788,93.607Z" transform="translate(-131.51 -63.67)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -20.79, -19.91)" filter="url(#XMLID_131_)">
+      <path id="XMLID_131_2" data-name="XMLID_131_" d="M9.278,105.776H7.811a3.424,3.424,0,0,0-2.739,1.378L.569,111.3a1.708,1.708,0,0,0-.133,2.414l3.674,4.1a1.708,1.708,0,1,0,2.545-2.28l-2.532-2.828,3.6-3.219-2.095,2.846,2.049,2.288a3.066,3.066,0,0,1-3.3,4.942s.016,7.905.016,16.371a2.05,2.05,0,1,0,4.1,0V123.716H9.854v12.219a3.39,3.39,0,0,1-.428,1.623,2.027,2.027,0,0,0,1.239.427,2.05,2.05,0,0,0,2.051-2.05c0-8.463,0-4.915,0-26.719A3.44,3.44,0,0,0,9.278,105.776Z" transform="translate(20.79 -75.11)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -20.79, -19.91)" filter="url(#XMLID_130_)">
+      <path id="XMLID_130_2" data-name="XMLID_130_" d="M56.047,9.524a3.841,3.841,0,0,0,3.653,0,4,4,0,1,0-3.653,0Z" transform="translate(-28.54 19.91)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

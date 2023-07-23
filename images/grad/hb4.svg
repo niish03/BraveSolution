@@ -1,0 +1,23 @@
+<svg id="hb4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84.971" height="84.972" viewBox="0 0 84.971 84.972">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6cbaf7"/>
+      <stop offset="1" stop-color="#c8e7ff"/>
+    </linearGradient>
+    <filter id="Union_6" x="19.774" y="23.898" width="44.728" height="38.893" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Ellipse_17" data-name="Ellipse 17" cx="42.486" cy="42.486" r="42.486" fill="url(#linear-gradient)"/>
+  <g id="line-chart" transform="translate(22.774 -10.772)">
+    <g id="Group_773" data-name="Group 773" transform="translate(0 36.671)">
+      <g transform="matrix(1, 0, 0, 1, -22.77, -25.9)" filter="url(#Union_6)">
+        <path id="Union_6-2" data-name="Union 6" d="M350.343-6333.108a.7.7,0,0,1-.7-.7v-15.785l5.785-5.785.1.1c.088.079.208.2.366.334v21.132a.7.7,0,0,1-.7.7Zm-8.672,0a.7.7,0,0,1-.7-.7v-7.241a4.216,4.216,0,0,0,.692-.556l5.561-5.563v13.36a.7.7,0,0,1-.7.7Zm-8.672,0a.7.7,0,0,1-.7-.7v-11.123l3.334,3.333a4.232,4.232,0,0,0,2.921,1.241v6.549a.7.7,0,0,1-.7.7Zm-8.674,0a.7.7,0,0,1-.7-.7v-6.277a4.278,4.278,0,0,0,2.729-1.241l3.524-3.524v11.043a.7.7,0,0,1-.7.7Zm-2.387-9.857-.366-.366a1.95,1.95,0,0,1,0-2.761l8.172-8.164a1.928,1.928,0,0,1,1.376-.574,1.951,1.951,0,0,1,1.385.574l6.133,6.135,13.654-13.662c-.4-.39-.8-.788-1.185-1.186l-.564-.573a1.166,1.166,0,0,1-.358-1.416,1.137,1.137,0,0,1,.246-.366,1.454,1.454,0,0,1,1.042-.357c2.261-.1,4.512-.216,6.772-.32h.126a1.358,1.358,0,0,1,1.027.374,1.374,1.374,0,0,1,.326,1.075l-.1,2.2c-.072,1.471-.144,2.937-.206,4.4a1.616,1.616,0,0,1-.422,1.122,1.55,1.55,0,0,1-.334.248,1.168,1.168,0,0,1-.558.15,1.325,1.325,0,0,1-.931-.492l-1.741-1.735-15.4,15.4a1.965,1.965,0,0,1-1.385.572,1.95,1.95,0,0,1-1.384-.572l-6.135-6.135-6.421,6.421a1.933,1.933,0,0,1-1.376.573A1.952,1.952,0,0,1,321.939-6342.965Z" transform="translate(-298.23 6391.9)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

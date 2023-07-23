@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122.805" height="122.805" viewBox="0 0 122.805 122.805">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#508aff"/>
+      <stop offset="1" stop-color="#bd7eee"/>
+    </linearGradient>
+  </defs>
+  <path id="rellax-ring" d="M759.878,308.149a61.4,61.4,0,1,0,61.4,61.4A61.4,61.4,0,0,0,759.878,308.149Zm0,98a36.594,36.594,0,1,1,36.594-36.594A36.594,36.594,0,0,1,759.878,406.145Z" transform="translate(-698.476 -308.149)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+</svg>

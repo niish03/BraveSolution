@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="123.337" height="126.454" viewBox="0 0 123.337 126.454">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.121" y1="0.311" x2="0.915" y2="0.396" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9ff50"/>
+      <stop offset="1" stop-color="#f669a3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.121" y1="0.689" x2="0.915" y2="0.604" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1ff8b"/>
+      <stop offset="1" stop-color="#0ecff6"/>
+    </linearGradient>
+  </defs>
+  <g id="rellax-ring2" transform="translate(-1609.743 -8562)">
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M90.41,156.954A61.412,61.412,0,0,1,29.293,101.5H54.3a36.6,36.6,0,0,0,72.224,0h25.006A61.412,61.412,0,0,1,90.41,156.954Z" transform="translate(1581 8531)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M61.117,0A61.412,61.412,0,0,0,0,55.454H25.006a36.6,36.6,0,0,1,72.224,0h25.006A61.413,61.413,0,0,0,61.117,0Z" transform="translate(1610.293 8562.5)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

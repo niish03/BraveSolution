@@ -1,0 +1,21 @@
+<svg id="cs3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84.971" height="84.972" viewBox="0 0 84.971 84.972">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ef7c91"/>
+      <stop offset="1" stop-color="#ffb2c0"/>
+    </linearGradient>
+    <filter id="Path_3619" x="28.622" y="21.333" width="27.844" height="44.574" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Ellipse_17" data-name="Ellipse 17" cx="42.486" cy="42.486" r="42.486" fill="url(#linear-gradient)"/>
+  <g id="cell-phone_1_" data-name="cell-phone (1)" transform="translate(25.671 23.333)">
+    <g transform="matrix(1, 0, 0, 1, -25.67, -23.33)" filter="url(#Path_3619)">
+      <path id="Path_3619-2" data-name="Path 3619" d="M24.988,0H8.758A2.808,2.808,0,0,0,5.951,2.81V35.767a2.806,2.806,0,0,0,2.807,2.807h16.23a2.808,2.808,0,0,0,2.807-2.807V2.81A2.809,2.809,0,0,0,24.988,0ZM12.868,1.706H20.88c.2,0,.367.3.367.676s-.164.678-.367.678H12.868c-.2,0-.365-.3-.365-.678S12.664,1.706,12.868,1.706ZM16.874,35.8a1.792,1.792,0,1,1,1.789-1.794A1.795,1.795,0,0,1,16.874,35.8Zm8.818-6.141H8.055V4.741H25.692V29.659Z" transform="translate(25.67 23.33)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

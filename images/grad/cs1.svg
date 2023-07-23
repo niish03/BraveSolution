@@ -1,0 +1,24 @@
+<svg id="cs1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85.547" height="85.547" viewBox="0 0 85.547 85.547">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#02c8a7"/>
+      <stop offset="0.498" stop-color="#43e6a0"/>
+      <stop offset="1" stop-color="#aaf9ba"/>
+    </linearGradient>
+    <filter id="Path_3617" x="11.774" y="28.773" width="61.175" height="30.714" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Ellipse_21" data-name="Ellipse 21" cx="42.774" cy="42.774" r="42.774" fill="url(#linear-gradient)"/>
+  <g id="infinity" transform="translate(14.774 -110.56)">
+    <g id="Group_774" data-name="Group 774" transform="translate(0 141.333)">
+      <g transform="matrix(1, 0, 0, 1, -14.77, -30.77)" filter="url(#Path_3617)">
+        <path id="Path_3617-2" data-name="Path 3617" d="M42.761,141.333a12.265,12.265,0,0,0-8.679,3.529l-6.495,5.747-.012-.012-3.483,3.069.023.023-6.2,5.495a7.777,7.777,0,1,1-5.506-13.253,7.854,7.854,0,0,1,5.609,2.368l2.609,2.31L24.1,147.54,21.2,144.965a12.351,12.351,0,1,0-.1,17.564l6.495-5.759.012.012L31.07,153.7l-.012-.012,6.2-5.483a7.774,7.774,0,1,1,5.506,13.242,7.889,7.889,0,0,1-5.609-2.356l-2.609-2.31-3.471,3.081,2.908,2.575a12.39,12.39,0,1,0,8.782-21.1Z" transform="translate(14.77 -110.56)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

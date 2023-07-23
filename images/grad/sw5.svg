@@ -1,0 +1,23 @@
+<svg id="sw5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84.971" height="84.972" viewBox="0 0 84.971 84.972">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6cbaf7"/>
+      <stop offset="1" stop-color="#c8e7ff"/>
+    </linearGradient>
+    <filter id="Path_3618" x="21.117" y="20.875" width="43.188" height="41.328" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Ellipse_17" data-name="Ellipse 17" cx="42.486" cy="42.486" r="42.486" fill="url(#linear-gradient)"/>
+  <g id="tick" transform="translate(24.117 10.125)">
+    <g id="play-install" transform="translate(0 12.75)">
+      <g transform="matrix(1, 0, 0, 1, -24.12, -22.87)" filter="url(#Path_3618)">
+        <path id="Path_3618-2" data-name="Path 3618" d="M33.469,20.188H26.031V16.469L22.313,12.75H14.875l-3.719,3.719v3.719H3.719A3.73,3.73,0,0,0,0,23.906V44.359a3.73,3.73,0,0,0,3.719,3.719h29.75a3.73,3.73,0,0,0,3.719-3.719V23.906A3.73,3.73,0,0,0,33.469,20.188ZM14.875,16.469h7.438v3.719H14.875Zm.93,25.1L9.3,35.063l2.6-2.6,3.9,3.9L25.473,26.7l2.6,2.6Z" transform="translate(24.12 10.12)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="check-mark" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <g id="Group_2" data-name="Group 2">
+    <g id="Group_1" data-name="Group 1">
+      <path id="Path_1" data-name="Path 1" d="M6,0a6,6,0,1,0,6,6A6.007,6.007,0,0,0,6,0ZM9.427,4.28,5.1,8.6a.5.5,0,0,1-.707,0L2.073,6.28a.25.25,0,0,1,0-.354l.353-.353a.25.25,0,0,1,.354,0l1.97,1.97,3.97-3.97a.25.25,0,0,1,.354,0l.353.353A.25.25,0,0,1,9.427,4.28Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

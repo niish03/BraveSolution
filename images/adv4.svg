@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <linearGradient id="a" x1="75.477%" x2="23.301%" y1="91.865%" y2="9.764%">
+            <stop offset="0%" stop-color="#85C26A"/>
+            <stop offset="100%" stop-color="#CCF5BA"/>
+        </linearGradient>
+        <filter id="b" width="117.6%" height="130%" x="-8.8%" y="-15%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="25" cy="25" r="25" fill="url(#a)"/>
+        <path fill="#8DC774" d="M40 34h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1h1V18a1 1 0 0 1 1-1h28a1 1 0 0 1 1 1v16z" filter="url(#b)"/>
+        <path fill="#FFF" d="M11 15h28a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H11a1 1 0 0 1-1-1V16a1 1 0 0 1 1-1z"/>
+        <g fill="#85C26A" opacity=".7" transform="translate(15 19)">
+            <g fill-rule="nonzero">
+                <path d="M20.458 2.2h-3.791a.546.546 0 0 0-.542.55v2.2h-3.792a.546.546 0 0 0-.541.55v2.2h-3.25A.546.546 0 0 0 8 8.25v2.2c0 .304.243.55.542.55a.546.546 0 0 0 .541-.55V8.8h3.25a.546.546 0 0 0 .542-.55v-2.2h3.792a.546.546 0 0 0 .541-.55V3.3h3.25A.546.546 0 0 0 21 2.75a.546.546 0 0 0-.542-.55zM8.159 4.239a.535.535 0 0 0 .766 0l2.325-2.361V2.2c0 .304.243.55.542.55a.546.546 0 0 0 .541-.55V.55a.556.556 0 0 0-.031-.178.545.545 0 0 0-.059-.125l-.001-.003a.557.557 0 0 0-.094-.105l-.026-.022A.536.536 0 0 0 12 .042L11.994.04a.539.539 0 0 0-.17-.038L11.791 0h-1.625a.546.546 0 0 0-.542.55c0 .304.243.55.542.55h.317L8.159 3.461a.556.556 0 0 0 0 .778z"/>
+            </g>
+            <path d="M6 10.338c0-1.765-1.343-3.195-3-3.195s-3 1.43-3 3.195c0 .892 6 .873 6 0z"/>
+            <ellipse cx="3" cy="3.929" rx="1.8" ry="1.929"/>
+        </g>
+        <path fill="#FFF" d="M9 32h32a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1z"/>
+    </g>
+</svg>
