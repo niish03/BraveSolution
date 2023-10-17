@@ -63,6 +63,18 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 200;
 }
+
+@media screen and (max-width: 414px) {
+  .logo-font-heading{
+    font-size:large !important;
+  }
+  .logo-font-sub-heading{
+    font-size: large !important;
+  }
+  .logo-font-tagline{
+    font-size: x-small !important;
+  }
+}
 .pt1rem {
   padding-top: 1rem; }
 
