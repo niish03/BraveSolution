@@ -3,9 +3,11 @@ $(window).scroll(function () {
   if (scroll >= 100) {
     $(".customNav").addClass("after-header");
     $(".examp-bar").removeClass("went-off");
+    $('.logo-text-cus').css('color', 'black');
   } else {
     $(".customNav").removeClass("after-header");
     $(".examp-bar").addClass("went-off");
+    $('.logo-text-cus').css('color', 'white');
   }
 });
 
