@@ -64,15 +64,18 @@ body {
   font-weight: 200;
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 450px) {
   .logo-font-heading{
-    font-size:large !important;
+    font-size:small !important;
   }
   .logo-font-sub-heading{
-    font-size: large !important;
+    font-size: small !important;
   }
   .logo-font-tagline{
-    font-size: x-small !important;
+    font-size: xx-small !important;
+  }
+  .full-logo{
+    width: 70px !important;
   }
 }
 .pt1rem {
@@ -675,7 +678,7 @@ select {
   top: 0px;
   display: block;
   transition: all 0.5s ease-in-out;
-  width: 60px; }
+  width: 100px; }
 
 .text-logo {
   position: relative;
