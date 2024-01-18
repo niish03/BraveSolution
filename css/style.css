@@ -75,7 +75,7 @@ body {
     font-size: xx-small !important;
   }
   .full-logo{
-    width: 70px !important;
+    width: 60px !important;
   }
 }
 .pt1rem {
@@ -678,7 +678,7 @@ select {
   top: 0px;
   display: block;
   transition: all 0.5s ease-in-out;
-  width: 100px; }
+  width: 90px; }
 
 .text-logo {
   position: relative;
